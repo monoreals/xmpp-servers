@@ -22,6 +22,6 @@ movim.eu
 omemo.im
 riseup.net
 xiaoyu.net
-xmpp.is 	
+xmpp.is
 xmpp.jp
 yax.im
