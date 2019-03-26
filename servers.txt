@@ -1,5 +1,6 @@
 404.city
 5222.de
+chat.sum7.eu
 chatme.im
 chatserver.space
 chinwag.im
