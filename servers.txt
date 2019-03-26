@@ -19,6 +19,7 @@ jabber.cat
 jabber.de
 jabber.fr
 jabber.ru
+jabberpl.org
 jabjab.de
 jwchat.org
 kode.im
