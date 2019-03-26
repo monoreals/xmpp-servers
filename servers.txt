@@ -23,6 +23,7 @@ jwchat.org
 kode.im
 magicbroccoli.de
 movim.eu
+neko.im
 omemo.im
 riseup.net
 xiaoyu.net
