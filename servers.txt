@@ -7,6 +7,7 @@ chinwag.im
 cock.li
 conversations.im
 creep.im
+diasporing.ch
 dismail.de
 disroot.org
 draugr.de
@@ -27,4 +28,3 @@ xiaoyu.net
 xmpp.is
 xmpp.jp
 yax.im
-diasporing.ch
