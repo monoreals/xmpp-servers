@@ -8,7 +8,7 @@ To add a new public server, make changes to the [servers.txt](https://github.com
 The file is synchronized with the site during the day.
 
 ## Conditions for adding to the list.
-1.Directory for site visitors
+**1.Directory for site visitors**
 
 It must be remembered that the directory was created not only for server administrators, but also for sites visitors.
 
@@ -31,7 +31,6 @@ If the added site does not indicate that it is an XMPP server, the site will not
 
 ## Terms of removal from the list
 
+**1. Inactive servers, servers with closed registration can be removed from the list. Servers can be returned back**
 
-1. Inactive servers, servers with closed registration can be removed from the list. Servers can be returned back
-
-2. The server can be excluded at the request of the server administrator
+**2. The server can be excluded at the request of the server administrator**
