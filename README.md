@@ -26,7 +26,7 @@ The user who will go to your site should see that this is a public XMPP server s
 >Hello! I John Doe.  I like Kitten and like drink beer. The weather is wonderful. My site is under construction. Ho-ho-ho
 
 
-If the added site does not indicate that it is an XMPP server, the site will not be added to the directory as site XMPP servers.
+If the added site does not indicate that it is an XMPP server, the site will not be added to the directory as site XMPP server.
 
 
 ## Terms of removal from the list
