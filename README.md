@@ -8,7 +8,7 @@ To add a new public server, make changes to the [servers.txt](https://github.com
 The file is synchronized with the site during the day.
 
 ## Conditions for adding to the list.
-**1.If the added site does not indicate that it is an XMPP server, the site will not be added to the directory as site XMPP server**
+**1. If the added site does not indicate that it is an XMPP server, the site will not be added to the directory as site XMPP server**
 
 It must be remembered that the directory was created not only for server administrators, but also for sites visitors.
 
