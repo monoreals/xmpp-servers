@@ -1,4 +1,5 @@
 404.city
+4ept.net
 5222.de
 anonym.im
 anoxinon.me
@@ -25,6 +26,7 @@ jabber.sk
 jabberpl.org
 jabjab.de
 jwchat.org
+kitsune.one
 kode.im
 lightwitch.org
 magicbroccoli.de
@@ -40,6 +42,7 @@ tigase.im
 trashserver.net
 xiaoyu.net
 wiuwiu.de
+xabber.org
 xmpp.is
 xmpp.jp
 yax.im
