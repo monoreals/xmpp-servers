@@ -12,4 +12,6 @@ It is allowed to add any public server with open registration to this list.  On 
 It makes no sense to add to the list the server on which the visitor is not clear how to create an account
 or what is xmpp server. Sites with empty pages or pages with no indication that this is an XMPP server are not accepted.
 
+Sites with empty pages or pages with no indication that this is an XMPP server are not accepted.
+
 
