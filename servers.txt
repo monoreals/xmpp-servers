@@ -31,6 +31,7 @@ kitsune.one
 kode.im
 lightwitch.org
 magicbroccoli.de
+meckerspace.de
 movim.eu
 neko.im
 omemo.im
