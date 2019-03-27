@@ -35,6 +35,7 @@ neko.im
 omemo.im
 quicksy.im
 riseup.net
+snopyta.org
 suchat.org
 sure.im
 tchncs.de
