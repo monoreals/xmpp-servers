@@ -23,6 +23,7 @@ jabber.de
 jabber.fr
 jabber.ru
 jabber.sk
+jabberes.org
 jabberpl.org
 jabjab.de
 jwchat.org
@@ -33,8 +34,10 @@ magicbroccoli.de
 movim.eu
 neko.im
 omemo.im
+otr.im
 quicksy.im
 riseup.net
+sj.ms
 snopyta.org
 suchat.org
 sure.im
@@ -47,3 +50,4 @@ xabber.org
 xmpp.is
 xmpp.jp
 yax.im
+zloy.im
