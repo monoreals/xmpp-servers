@@ -16,15 +16,15 @@ It must be remembered that the directory was created not only for server adminis
 
 The user who will go to your site should see that this is a public XMPP server site and how to create an account. Explicitly indicate what the site is XMPP server and how to create an account
 
-**Good site example:**
+**Good example site for XMPP server:**
 
 >Hello! The example.com is the site of the public  XMPP server. You can create an account through in-band registration. To do this, use the XMPP client "Name of the XMPP client"
 
-**Good site example:**
+**Good example site for XMPP server:**
 
 >Hello! The example.com is the site of the public XMPP server. You can create an account here example.com/registration
 
-**Bad site example**
+**Bad example site for XMPP server**
 >Hello! I John Doe.  I like Kitten and like drink beer. The weather is wonderful. My site is under construction. Ho-ho-ho
 
 
