@@ -25,8 +25,10 @@ The user who will go to your site should see that this is a public XMPP server s
 >Hello! The example.com is the site of the public XMPP server. You can create an account here example.com/registration
 
 **Bad example site for XMPP server**
->Hello! I John Doe.  I like Kitten and like drink beer. The weather is wonderful. My site is under construction. Ho-ho-ho
+>Hello! I John Doe.  I like to eat fried chicken and like drink beer. The weather is wonderful. My site is under construction. Ho-ho-ho
 
+Even if your site has a culinary blog theme, short indicate that the visitor can create an account on the XMPP server and how to do it.
+ 
 
 ## Terms of removal from the list
 
