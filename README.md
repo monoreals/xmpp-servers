@@ -1,4 +1,4 @@
-# Open list public XMPP servers
+# Open list of public XMPP servers
 
 This open XMPP servers list from site https://xmpp-servers.404.city 
 Our task is to create an unbiased directory in which any administrator could include his public server.
