@@ -57,8 +57,13 @@ tigase.im
 trashserver.net
 xiaoyu.net
 wiuwiu.de
+wusz.org
 xabber.org
+xmpp.co
+xmpp.cx
+xmpp.dk
 xmpp.fi
+xmpp.international
 xmpp.is
 xmpp.xyz
 xmpp.jp
