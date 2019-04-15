@@ -4,6 +4,7 @@
 anonym.im
 anoxinon.me
 blabber.im
+blah.im
 chat.sum7.eu
 chat.seantodd.co.uk
 chatme.im
@@ -51,4 +52,5 @@ xabber.org
 xmpp.is
 xmpp.jp
 yax.im
+yourdata.forsale
 zloy.im
