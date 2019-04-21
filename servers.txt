@@ -41,6 +41,7 @@ magicbroccoli.de
 meckerspace.de
 movim.eu
 neko.im
+nixnet.xyz
 nsa.li
 omemo.im
 otr.im
