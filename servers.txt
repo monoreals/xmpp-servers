@@ -29,6 +29,7 @@ jabber.de
 jabber.fr
 jabber.ru
 jabbers.one
+jabber.org
 jabber.sk
 jabber.support
 jabberes.org
