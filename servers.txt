@@ -24,6 +24,7 @@ fysh.in
 jabb.im
 jabber.at
 jabber.cat
+jabber.cc
 jabber.de
 jabber.fr
 jabber.ru
