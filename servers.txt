@@ -40,6 +40,7 @@ jwchat.org
 kitsune.one
 kode.im
 inb4404.com
+im.wordpress.com
 lightwitch.org
 magicbroccoli.de
 meckerspace.de
@@ -61,7 +62,6 @@ thesecure.biz
 tigase.im
 trashserver.net
 xiaoyu.net
-wordpress.com
 wiuwiu.de
 wusz.org
 xabber.org
