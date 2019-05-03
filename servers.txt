@@ -21,7 +21,6 @@ dismail.de
 disroot.org
 draugr.de
 fysh.in
-forcrypt.org
 jabb.im
 jabber.at
 jabber.cat
