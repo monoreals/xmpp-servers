@@ -36,6 +36,7 @@ jabberes.org
 jabberpl.org
 jabjab.de
 jwchat.org
+kde.org
 kitsune.one
 kode.im
 konuro.net
