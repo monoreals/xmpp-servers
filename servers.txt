@@ -72,6 +72,7 @@ xmpp.fi
 xmpp.international
 xmpp.is
 xmpp.xyz
+xmpp.si
 xmpp.jp
 yax.im
 yourdata.forsale
