@@ -75,5 +75,4 @@ xmpp.xyz
 xmpp.si
 xmpp.jp
 yax.im
-yourdata.forsale
 zloy.im
