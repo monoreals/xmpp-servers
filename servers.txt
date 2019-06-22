@@ -65,6 +65,7 @@ xiaoyu.net
 wiuwiu.de
 wusz.org
 xabber.org
+xmpp.chat
 xmpp.co
 xmpp.cx
 xmpp.dk
