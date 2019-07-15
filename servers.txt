@@ -3,6 +3,7 @@
 616.pub
 a3.pm
 alpha-labs.net
+arcipelago.ml
 5222.de
 anonym.im
 anoxinon.me
