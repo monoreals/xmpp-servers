@@ -1,3 +1,5 @@
+1jabber.com
+31337.life
 404.city
 4ept.net
 616.pub
@@ -48,6 +50,7 @@ meckerspace.de
 movim.eu
 neko.im
 nixnet.xyz
+nologs.club
 nsa.li
 omemo.im
 otr.im
@@ -58,6 +61,7 @@ sj.ms
 snopyta.org
 suchat.org
 sure.im
+strong.pm
 tchncs.de
 thesecure.biz
 tigase.im
