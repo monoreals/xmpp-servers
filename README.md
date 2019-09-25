@@ -6,7 +6,9 @@ Our task is to create an unbiased directory in which any administrator could inc
 
 ## How add new XMPP server site?
 
-To add a new public server, make changes to the [servers.txt](https://github.com/E-404/xmpp-servers/blob/master/servers.txt) file.  Use alphabetical order for convenience.The file is synchronized with the site during the day.
+1) To add a new public server, make changes to the [servers.txt](https://github.com/E-404/xmpp-servers/blob/master/servers.txt) file.  Use alphabetical order for convenience.The file is synchronized with the site during the day.
+
+2) If you do not know how to use github, send url to XMPP ID support@404.city
 
 
 ## Conditions for adding to the list
